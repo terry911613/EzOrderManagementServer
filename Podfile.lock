@@ -1,0 +1,20 @@
+PODS:
+  - Kingfisher (5.5.0)
+  - ViewAnimator (2.5.1)
+
+DEPENDENCIES:
+  - Kingfisher
+  - ViewAnimator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kingfisher
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  Kingfisher: 6fe5e67a90fd335e49b0f5c075ff55ac5ebedd94
+  ViewAnimator: 173932c659a43c5a15c665878750d92801ae2cf1
+
+PODFILE CHECKSUM: cba7522d173acf07790d9e2e4d0fe4bbc2e0e4fb
+
+COCOAPODS: 1.6.1
